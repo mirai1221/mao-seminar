@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # 真央ゼミ Web サイト
 
 C&A 大学
 
 真央ゼミの Web サイト用リポジトリです。
 GitHub Pages 機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
+=======
+# 真央ゼミWebサイト
+C&A大学
+
+真央ゼミのWebサイト用リポジトリです。
+GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
+>>>>>>> 09f84f5... Update README.md
 https://elmas3.github.io/mao-seminar/
 
 #メンバー
